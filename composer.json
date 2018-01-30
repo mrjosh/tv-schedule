@@ -1,0 +1,14 @@
+{
+  "require": {
+    "jonnyw/php-phantomjs": "^4.6",
+    "symfony/dom-crawler": "^4.0",
+    "symfony/css-selector": "^4.0",
+    "symfony/var-dumper": "^4.0",
+    "nesbot/carbon": "^1.22"
+  },
+  "autoload":{
+    "psr-4": {
+      "Josh\\Components\\TvSchedule\\": "src/"
+    }
+  }
+}
