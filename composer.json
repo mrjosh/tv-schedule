@@ -1,4 +1,14 @@
 {
+  "name": "josh/tv-schedule",
+  "description": "tv schedules api",
+  "type": "package",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alireza Josheghani",
+      "email": "josheghani.dev@gmail.com"
+    }
+  ],
   "require": {
     "jonnyw/php-phantomjs": "^4.6",
     "symfony/dom-crawler": "^4.0",
